@@ -1,1 +1,1 @@
-FoxCZ'Bot node app.js
+worker: node bot.js
